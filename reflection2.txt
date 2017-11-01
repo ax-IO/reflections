@@ -1,0 +1,7 @@
+5) .git apparait dans le working directory permet de signifier à git que l'on veut tracker ce fichier en particulier
+
+8) permet d'avoir plus de contrôle 
+càd pouvoir ajouter dans cette aire uniquement les fichiers prêts à
+etre commited meme si d'autres fichiers ont été modifiés dans le working dir
+
+13) only add files w/ logical similarities

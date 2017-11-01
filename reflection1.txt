@@ -32,3 +32,6 @@ could break something?
 parceque je peux à tout moment revenir à une version antérieure
 Now that you have your workspace set up, what do you want to try using Git for?
 pour tous mes projets/ cours en informatique ainsi que mes fichiers linux + contribuer à un projet open-source..
+
+pute
+
