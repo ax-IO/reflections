@@ -4,4 +4,4 @@
 càd pouvoir ajouter dans cette aire uniquement les fichiers prêts à
 etre commited meme si d'autres fichiers ont été modifiés dans le working dir
 
-13) only add files w/ logical similarities
+13) only add files w/ logical similarities puis git diff --staged
