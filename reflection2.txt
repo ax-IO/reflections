@@ -7,3 +7,12 @@ etre commited meme si d'autres fichiers ont été modifiés dans le working dir
 13) only add files w/ logical similarities puis git diff --staged
 
 21) help uderstand logic of your project and avoir moins peur d'expérimenter n créant des branches à des stades antérieurs (master inchangé)
+
+26) crée un nouveau commit et place le label master en tête (pas tt le temps)
+ajoute les lignes de codes ajoutés sur une seule des deux branches
+supprime les lignes de codes supprimés sur une seule des deux branches
+
+crée un CONFLICT lorsque un ajout et un retranchement sont sur la meme ligne 
+(attention aux tab espaces...)
+
+
