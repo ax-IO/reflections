@@ -15,4 +15,267 @@ supprime les lignes de codes supprimés sur une seule des deux branches
 crée un CONFLICT lorsque un ajout et un retranchement sont sur la meme ligne 
 (attention aux tab espaces...)
 
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
 
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
+33) auto merging :
+pros:
+moins laborieux
+temps gagné
+
+cons :
+risque d'erreur ou de
+-précis
